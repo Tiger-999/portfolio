@@ -14,11 +14,10 @@ function App() {
       </ul>
 
       <h2>Contact</h2>
-      <p>Email: your@email.com</p>
-      <p>GitHub: <a href="https://github.com/yourgithub">yourgithub</a></p>
+      <p>Email: finalking07@gmail.com</p>
+      <p>GitHub: <a href="https://github.com/Tiger-999">https://github.com/Tiger-999</a></p>
     </div>
   );
 }
-
 
 export default App;
